@@ -3,7 +3,7 @@
 
 # How to Use
 1. `Blender 5.0+` 설치.
-2. `File` - `Link` or `Append` - .blend file 선택 후 `NodeGroup` 내에서 가져올 노드그룹 선택
+2. `File` - `Link` or `Append` - .blend file 선택 후 `NodeTree` 내에서 가져올 노드그룹 선택
  **또는** `%USERPROFILE%\Documents\Blender\Assets` 경로에 .blend file 삽입
 3. `Video Sequencer` timeline 에서, 효과를 적용할 **Strip** 선택.
 4. Strip Modifier 에서 `Compositor` 추가.
@@ -15,6 +15,7 @@
 - [JitterNoise](.blend/JitterNoise.blend) : 노이즈 노드 및 Scene Frame 기반의 Jitter 효과
 
 # Example
+> 선택된 박스 부분이 적용된 부분. 이름 클릭을 통해 예시 노드 세팅값 확인 가능.
 <table width="100%">
   <tr>
     <td width="50%" align="center">
@@ -26,10 +27,16 @@
   </tr>
   <tr>
     <td align="center">
-      <a href=".blend/ColorizeTP.blend">ColorizeTP</a>
+        <details>
+            <summary>ColorizeTP</summary>
+            <img src="example/NodeSS_ColorizeTP.png" width="100%">
+        </details>
     </td>
     <td align="center">
-      <a href=".blend/JitterNoise.blend">JitterNoise</a>
+        <details>
+            <summary>JitterNoise</summary>
+            <img src="example/NodeSS_JitterNoise.png" width="100%">
+        </details>
     </td>
   </tr>
 </table>
