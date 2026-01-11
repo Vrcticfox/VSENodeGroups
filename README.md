@@ -3,7 +3,7 @@
 
 # How to Use
 1. `Blender 5.0+` 설치.
-2. `File` - `Link` or `Append` - .blend file 선택.
+2. `File` - `Link` or `Append` - .blend file 선택 후 `NodeGroup` 내에서 가져올 노드그룹 선택
 3. `Video Sequencer` timeline 에서, 효과를 적용할 **Strip** 선택.
 4. Strip Modifier 에서 `Compositor` 추가.
 5. `Composite` 창 열고, `Node Tree Sub-Type` 를 `Sequencer`로 변경. (기본값은 `Scene`임.)
