@@ -1,6 +1,11 @@
-# VSENodeGroups
-VSE Strip Composite용 블렌더 노드그룹.
+# PersonalVSETools
+VSE용 개인 노드그룹 / 툴 모음.
+
 
 # List
+## Tools
+- [AudioZScaleMultiBaker](scripts/AudioZScaleMultiBaker.py)
+
+## NodeGroups
 - [ColorizeTP](.blend/ColorizeTP.blend)
 - [JitterNoise](.blend/JitterNoise.blend)
