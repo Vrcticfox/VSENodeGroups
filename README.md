@@ -9,3 +9,4 @@ VSE용 개인 노드그룹 / 툴 모음.
 ## NodeGroups
 - [ColorizeTP](.blend/ColorizeTP.blend)
 - [JitterNoise](.blend/JitterNoise.blend)
+- [LightGlitch](.blend/LightGlitch.blend)
